@@ -1,0 +1,248 @@
+@media (max-width: 992px) {
+    .nav {
+      flex-direction: column; 
+      align-items: center;
+    }
+  }
+  @media (max-width: 1025px) {
+    .scaling
+    {
+      transform: scale(0.6);
+    }
+    .hide
+    {
+      font-size: xx-small;
+    }
+  }  
+  .accordion-body
+  {
+    height: 220px;
+    
+  }
+  .span
+  {
+    color: blueviolet;
+  }
+ 
+      /* eventdetail1 */
+      .background-image
+      {
+        background-image: url('https://hire4event.com/blogs/wp-content/uploads/2019/05/Event-Management-Proposal-Hire4event.jpg');
+        height: 350px;
+        background-size:cover;
+        background-position:center;
+        
+        
+      }
+      .input-group input::placeholder
+      {
+       color: white; 
+      }
+      .input-group input
+      {
+        color: white;
+      }
+      .col-md-6 input::placeholder
+      {
+       color: white; 
+      }
+      .col-md-6 input
+      {
+        color: white;
+      }
+      .col-12 input::placeholder
+      {
+       color: white; 
+      }
+      .col-12 input
+      {
+        color: white;
+      }
+
+
+  @media (max-width: 992px) {
+    .accordion-body
+    {
+      height: 100%;
+    }
+  }  
+
+
+
+  @media (max-width: 600px) {
+    .res-width
+    {
+      width: 100%;
+    }
+    .hq
+    {
+      display: flex;
+      flex-direction: row;
+    }
+    .hq img
+    {
+      
+      width: 80px;
+      
+  
+    }
+    .h-100 .hq
+    {
+      height: 100px;
+    }
+    .text
+    {
+      font-size: 8px;
+    }
+    .text1
+    {
+      
+     transform: scale(0.9);
+    }
+    .text2
+    {
+      transform: scale(0.5);
+      position: relative;
+      bottom: 25px;
+      
+    }
+    
+    
+  }  
+
+  /* home */
+  
+.nav {
+  display: flex;
+  flex-direction: row; 
+
+}
+.back
+{
+  background: url('https://media-cdn.tripadvisor.com/media/photo-s/01/20/03/69/our-dinner-table-at-the.jpg');
+  border-radius: 30px;
+}
+.bg-d
+{
+  background-color:rgba(9, 9, 9, 0.841);
+}
+.box-w
+{
+  width: 180px;
+  border: 2px dotted white;
+  background-color: rgb(30, 29, 29);
+}
+.tilted-card {
+  transform: rotate(6deg); 
+}
+.height
+{
+  height: 500px;
+}
+@media (max-width: 992px) {
+  .nav {
+    flex-direction: column; 
+    align-items: center;
+  }
+}
+
+
+.col-12 input::placeholder
+{
+ color: white; 
+}
+.col-12 input
+{
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .scaling
+  {
+    transform: scale(0.5);
+    
+  }
+  .scaling1
+  {
+    transform: scale(0.9);
+  }
+  .tilted-card {
+    transform: rotate(0deg); 
+  }
+  .second-card
+  {
+    
+    
+    transform: scale(0.7);
+    margin-left: 28px;
+    bottom:  35px;
+    
+      
+  } 
+}
+
+.f-size1
+{
+  font-size: 55px;
+}
+
+.f-size
+{
+  font-size:100px;
+}
+.f-size2
+{
+  font-size: 15px;
+}
+@media (max-width:550px){
+  .f-size
+  {
+    font-size: 50px;
+  }
+  .f-size1
+{
+  font-size: 25px;
+}
+.f-size2
+{
+  font-size: 10px;
+}
+.scale
+{
+  font-size: 14px;
+}
+
+  .scales
+  {
+   font-size: 9px;
+
+  }
+
+}
+
+
+
+@media (max-width:415px){
+  .responsive
+  {
+    
+    margin-top: 50px;
+  }
+}
+@media (max-width:282px){
+  .responsive
+  {
+    
+    margin-top: 120px;
+  }
+  .responsive1
+  {
+    margin-top: 25px;
+  }
+  .scales
+  {
+   font-size: 8px;
+
+  }
+  
+}
